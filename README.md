@@ -21,8 +21,9 @@ End the program
 ## Program:
 ```
 Program to circulate N values.
-Developed by : KAVINRAJA D
-Reference no : 22007928
+Developed by : NAKUL R
+
+Reference no : 212223240102
 def circulate():
     b=a[n:]+a[:n]
     print("After circulating the values are:",b)
